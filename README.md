@@ -26,6 +26,9 @@
 
 ## Features
 
+![Demo](demo.gif)
+
+
 <table>
 <tr>
 <td width="40%" valign="middle">
